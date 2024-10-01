@@ -1,0 +1,13 @@
+﻿<Window x:Class="wefrwefw.ArchitectoryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wefrwefw"
+        mc:Ignorable="d"
+        Title="ArchitectoryWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="ButtonBack6" Content="&lt;=" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Width="29" Click="ButtonBack6_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,57 @@
+C:\Users\Student\Desktop\wefrwefw\bin\Debug\wefrwefw.exe.config
+C:\Users\Student\Desktop\wefrwefw\bin\Debug\wefrwefw.exe
+C:\Users\Student\Desktop\wefrwefw\bin\Debug\wefrwefw.pdb
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\wefrwefw.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\wefrwefw.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\AimWindow.g.cs
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\wefrwefw_MarkupCompile.cache
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\wefrwefw_MarkupCompile.lref
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\AimWindow.baml
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\wefrwefw.g.resources
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\wefrwefw.Properties.Resources.resources
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\wefrwefw.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\wefrwefw.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\wefrwefw.exe
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\wefrwefw.pdb
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\TaskWindow.g.cs
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\TaskWindow.baml
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\ArchitectoryWindow.g.cs
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\CommunicationWindow.g.cs
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\HistoryWindow.g.cs
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\StackWindow.g.cs
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\ArchitectoryWindow.baml
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\CommunicationWindow.baml
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\HistoryWindow.baml
+C:\Users\Student\Desktop\wefrwefw\obj\Debug\StackWindow.baml
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\bin\Debug\wefrwefw.exe.config
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\bin\Debug\wefrwefw.exe
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\bin\Debug\wefrwefw.pdb
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\wefrwefw.csproj.AssemblyReference.cache
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\AimWindow.g.cs
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\ArchitectoryWindow.g.cs
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\CommunicationWindow.g.cs
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\HistoryWindow.g.cs
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\MainWindow.g.cs
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\OpenWindow.g.cs
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\StackWindow.g.cs
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\TaskWindow.g.cs
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\App.g.cs
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\wefrwefw_MarkupCompile.cache
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\wefrwefw_MarkupCompile.lref
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\AimWindow.baml
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\ArchitectoryWindow.baml
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\CommunicationWindow.baml
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\HistoryWindow.baml
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\MainWindow.baml
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\StackWindow.baml
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\TaskWindow.baml
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\OpenWindow.baml
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\wefrwefw.g.resources
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\wefrwefw.Properties.Resources.resources
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\wefrwefw.csproj.GenerateResource.cache
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\wefrwefw.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\wefrwefw.exe
+C:\Users\alexs\source\repos\MIIT_Project1\Проект МИИТ1\Дистанционный курс\Проект МИИТ1\Дистанционный курс\wefrwefw\obj\Debug\wefrwefw.pdb
