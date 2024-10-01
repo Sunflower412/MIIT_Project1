@@ -1,0 +1,15 @@
+﻿<Window x:Class="wefrwefw.AimWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wefrwefw"
+        mc:Ignorable="d"
+        Title="AimWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="ButtonBack1" Content="&lt;=" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Width="29" Click="ButtonBack1_Click"/>
+        <TextBox x:Name="TextBoxAim1" HorizontalAlignment="Left" Margin="34,0,0,0" TextWrapping="Wrap" Text="АСУ СС предоставляет данные оперативным руководителям станции удобном виде, необходимые для планирования работы и принятия решений.&#xD;&#xA;На основе этой информации работники станции более точно и оперативно определяют порядок использования технических средств и ресурсов станции, осуществляют планирование очередности станционных операций, работы маневровых локомотивов, выдачи поездных локомотивов. Одновременно система автоматизирует составление технологических документов, определяющих порядок выполнения операций.&#xD;&#xA;Основная цель автоматизированной системы управления сортировочной станцией железной дороги - оптимизация эффективности и результативности процесса сортировки, обеспечивая правильное маршрутизацию, классификацию и отправку поездов и вагонов к их конечным пунктам назначения.&#xD;&#xA;" VerticalAlignment="Center" Width="398" Height="414" TextChanged="TextBox_TextChanged" FontSize="15"/>
+        <Button x:Name="ButtonReadMore1" Content="Читать далее..." HorizontalAlignment="Left" Margin="490,375,0,0" VerticalAlignment="Top" Height="49" Width="275" FontSize="15" Click="ButtonReadMore1_Click"/>
+
+    </Grid>
+</Window>

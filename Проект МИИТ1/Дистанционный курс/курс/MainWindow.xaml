@@ -1,0 +1,18 @@
+﻿<Window x:Class="wefrwefw.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wefrwefw"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="ButtonAim" Content="Цель и назначение" Margin="97,0,0,307" Click="Button_Click" HorizontalAlignment="Left" Width="233" Height="62" VerticalAlignment="Bottom" Background="#FFFFE08A" Foreground="Black" FontSize="16" FontWeight="ExtraBold"/>
+        <Button x:Name="ButtonTasks" Content="Решаемые задачи" Margin="0,0,97,307" Click="ButtonTasks_Click" HorizontalAlignment="Right" Width="233" Height="62" VerticalAlignment="Bottom" Background="#FFD3AAFF" FontSize="16" FontWeight="ExtraBold"/>
+        <Button x:Name="ButonHistory" Content="История развития" Margin="97,0,0,191" Click="ButonHistory_Click" HorizontalAlignment="Left" Width="232" Height="62" VerticalAlignment="Bottom" Background="#FF96FFDB" FontSize="16" FontWeight="UltraBold"/>
+        <Button x:Name="ButtonArchitectory" Content="Архитектура и структура&#xD;&#xA;              системы" Margin="470,0,97,186" Click="ButtonArchitectory_Click" Background="#FFAAC3FF" FontSize="14.9" FontWeight="ExtraBold" Height="62" VerticalAlignment="Bottom"/>
+        <Button x:Name="ButtonStack" Content="Используемые технические &#xD;&#xA;                 средства" Margin="97,0,0,72" Click="ButtonStack_Click" HorizontalAlignment="Left" Width="233" Height="62" VerticalAlignment="Bottom" Background="#FFFFA5AE" FontSize="15" FontWeight="Black"/>
+        <Button x:Name="ButtonCommunication" Content="Взаимодействия с внешними&#xD;&#xA;                системами" Margin="0,0,97,72" Click="ButtonCommunication_Click" HorizontalAlignment="Right" Width="233" Height="62" VerticalAlignment="Bottom" Background="#FFF7B85C" FontSize="15" FontWeight="UltraBold"/>
+
+    </Grid>
+</Window>
