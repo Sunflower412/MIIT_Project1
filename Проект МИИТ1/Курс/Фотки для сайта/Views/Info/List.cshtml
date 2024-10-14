@@ -1,0 +1,21 @@
+﻿<style>
+	.content {
+	  max-width: 500px;
+	  margin: auto;
+	}
+</style>
+<h1>Выберите информацию которую хотите изучить.</h1>
+	<h2>@Model.currCategory</h2>
+	<div class="row mt-5 mb-2">
+		@{
+			foreach(var info in Model.allInfos) {
+		<div class="col-lg-4">
+				 <img src="@info.img" class="img-thumbnail" width="400">
+				<h2> @info.Name </h2>
+				<p>@info.shortDesc</p>
+				<a class="btn btn-primary d-inline-flex align-items-center" href="#">Подробнее »</a>
+				
+		</div>
+			}
+		}
+</div>
